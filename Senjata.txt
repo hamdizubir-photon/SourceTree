@@ -1,11 +1,11 @@
-asdList Nama-nama senjata :
+List Nama-nama senjata :
 A. Assault Rifle
 	1. AKM
 	2. M416
 B. Sniper
 	1. AWM
 	2. M24
-aSD
+
 C. SMG
 
 D. Pistol
