@@ -7,7 +7,10 @@ B. Sniper
 	2. M24
 
 C. SMG
+	
 
 D. Pistol
 
 E. Mele
+	1. Panci
+	2. Celurit
