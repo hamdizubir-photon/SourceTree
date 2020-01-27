@@ -1,1 +1,6 @@
 List Nama-nama senjata :
+A. Assault Rifle
+B. Sniper
+C. SMG
+D. Pistol
+E. Mele
