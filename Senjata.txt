@@ -3,6 +3,8 @@ A. Assault Rifle
 	1. AKM
 	2. M416
 	3. M762
+	4. M16
+	5. THOMPSON
 	
 B. Sniper
 	1. AWM
@@ -13,9 +15,4 @@ C. SMG
 	1. UZI
 	2. UMP
 	3. Vector
-
-D. Pistol
-	1. Koboi
-
-E. Mele
-	1. Panci
+	4. PP BHIZON
