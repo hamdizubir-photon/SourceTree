@@ -7,8 +7,8 @@ B. Sniper
 	2. M24
 
 C. SMG
-	1. UZI - new
-	2. UMP - new
+	1. UZI
+	2. UMP
 	3. Vector
 
 D. Pistol
