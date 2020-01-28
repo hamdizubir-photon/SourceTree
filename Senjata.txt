@@ -12,6 +12,7 @@ C. SMG
 	3. Vector
 
 D. Pistol
+	1. 45ACP
 
 E. Mele
 	1. Panci
