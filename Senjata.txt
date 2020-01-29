@@ -2,6 +2,7 @@ List Nama-nama senjata :
 A. Assault Rifle
 	1. AKM
 	2. M416
+	3. m16
 B. Sniper
 	1. AWM
 	2. M24
@@ -17,4 +18,4 @@ D. Pistol
 E. Mele
 	1. Panci
 	2. Celurit
-	3. Sabit
+	
