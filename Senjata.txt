@@ -18,4 +18,4 @@ E. Mele
 	1. Panci
 	2. Celurit
 	3. Sabit
-F.Bomb
+F.Bomb...
