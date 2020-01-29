@@ -6,6 +6,7 @@ A. Assault Rifle
 B. Sniper
 	1. AWM
 	2. M24
+	3. KAR98
 
 C. SMG
 	1. UZI
