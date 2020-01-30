@@ -22,4 +22,6 @@ D. Pistol
 E. Mele
 	1. Panci
 	2. Crossbow
+	3. Ketapel
+	
 	
