@@ -3,7 +3,11 @@ A. Assault Rifle
 	1. AKM
 	2. M416
 	3. m16
+<<<<<<< HEAD
 	4. M762
+=======
+	4. AUG
+>>>>>>> 13ee279693bdf20ad89125a44155b2fc9d024a02
 
 B. Sniper
 	1. AWM
@@ -11,8 +15,8 @@ B. Sniper
 	3. KAR98
 
 C. SMG
-	1. UZI
-	2. UMP
+	1. UZI-Micro
+	2. UMP9
 	3. Vector
 	4. Thompson
 
