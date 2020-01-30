@@ -3,6 +3,8 @@ A. Assault Rifle
 	1. AKM
 	2. M416
 	3. m16
+	4. M762
+
 B. Sniper
 	1. AWM
 	2. M24
@@ -12,6 +14,7 @@ C. SMG
 	1. UZI
 	2. UMP
 	3. Vector
+	4. Thompson
 
 D. Pistol
 	1. 45ACP
