@@ -22,5 +22,6 @@ D. Pistol
 E. Mele
 	1. Panci
 	2. Crossbow
-	3. Pisau Dapur
+	3. Ketapel
+
 	
