@@ -24,4 +24,5 @@ E. Mele
 	2. Crossbow
 	3. Ketapel
 
-	
+F. BOMB
+	1. Explosive Bomb
