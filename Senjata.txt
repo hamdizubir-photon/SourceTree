@@ -26,3 +26,5 @@ E. Mele
 
 F. BOMB
 	1. Explosive Bomb
+	2. Smoke Bomb
+
