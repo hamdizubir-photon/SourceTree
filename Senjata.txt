@@ -27,4 +27,5 @@ E. Mele
 F. BOMB
 	1. Explosive Bomb
 	2. Smoke Bomb
+	3. Flash Bang
 
