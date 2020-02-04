@@ -19,7 +19,7 @@ C. SMG
 D. Pistol
 	1. 45ACP
 
-E. Mele
+E. Melee
 	1. Panci
 	2. Crossbow
 	3. Ketapel
@@ -28,4 +28,7 @@ F. BOMB
 	1. Explosive Bomb
 	2. Smoke Bomb
 	3. Flash Bang
+
+G. Brother
+	1. Youre Moslem
 
